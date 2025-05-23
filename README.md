@@ -30,5 +30,5 @@ The layout is crafted with CSS Grid and Flexbox for modern, responsive design an
 
 ## 🌍 Deployment
 
-This project is deployed on **Vercel** and can be accessed via the following link:  
-🔗 [Omnifood Website on Netlify](https://your-vercel-url.vercel.app)
+This project is deployed on **Netlify** and can be accessed via the following link:  
+🔗 [Omnifood Website on Netlify](https://omnifood-responsive-web.netlify.app/)
