@@ -26,6 +26,10 @@ The site features smooth scrolling and subtle animations to create a polished an
 
 The layout is crafted with CSS Grid and Flexbox for modern, responsive design and maximum control over structure.
 
+### ✅ Functional Contact Form
+
+The site includes a working contact form powered by **Netlify Forms**, enabling direct message submission without additional backend setup.
+
 ---
 
 ## 🌍 Deployment
